@@ -29,12 +29,16 @@ The application manages employee information, payroll calculations, leave reques
 
 1. Clone the repository
 2. Run:
-npm install
+   npm install
 
 3. Start development server:
-npm run dev
+   npm run dev
 
 ## Video Presentation Link
-[Watch the project presentation here] https://drive.google.com/file/d/1hIZc3un0dW6JEfu3db63gOLPsEizfQYI/view?usp=sharing
+
+[Watch the project presentation here] https://drive.google.com/file/d/1hIZc3un0dW6JEfu3db63gOLPsEizfQYI/
+view?usp=sharing
+
 ## Author
-Daylin Diedericks 
+
+Daylin Diedericks
